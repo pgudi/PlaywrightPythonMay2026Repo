@@ -1,0 +1,9 @@
+str="GOWRISOFTWARE"
+print(str[5:9])
+print(str[0])
+print(str[:9])
+print(str[9:])
+print(str[-8:-4])
+print(str[::-1])
+print(str[0:5])
+print(str[-13:-8])
