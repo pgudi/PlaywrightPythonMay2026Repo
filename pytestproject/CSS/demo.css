@@ -1,0 +1,14 @@
+body{
+    background-color: darkmagenta;
+}
+
+h3{
+    text-align: center;
+    color: blue;
+}
+
+p{
+    font-size: 15px;
+    font-family: Times New Roman;
+    color: white;
+}
